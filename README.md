@@ -27,7 +27,7 @@ a software engineering student at Lead City University, Ibadan, Nigeria — curr
 ---
 
 ## how to reach me
-- 📧 [your gmail here]
+- 📧 mdon85329@gmail.com
 - 🌐 portfolio — *updating soon*
 
 ---
