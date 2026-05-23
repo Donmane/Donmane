@@ -1,4 +1,39 @@
-## Hi there 👋
+# hey, i'm Daniel 👾
+**software engineering student · builder in progress · gamer at heart**
+
+---
+
+## who am i?
+a software engineering student at Lead City University, Ibadan, Nigeria — currently obsessed with building things on the web and figuring out how systems actually work under the hood. when i'm not writing code, i'm deep in an open-world RPG or watching anime (yes, both).
+
+---
+
+## what am i working on?
+- leveling up my JavaScript fundamentals (properly, not speed-running)
+- learning React and building my first real projects
+- working on my personal portfolio — *coming soon*
+
+---
+
+## tools i use
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## how to reach me
+- 📧 [your gmail here]
+- 🌐 portfolio — *updating soon*
+
+---
+
+*"still learning. always building."*
+
 
 <!--
 **Donmane/Donmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
