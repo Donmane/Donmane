@@ -9,8 +9,7 @@ a software engineering student at Lead City University, Ibadan, Nigeria — curr
 ---
 
 ## what am i working on?
-- leveling up my JavaScript fundamentals (properly, not speed-running)
-- learning React and building my first real projects
+- learning React and Supabase building my first real projects
 - working on my personal portfolio — *coming soon*
 
 ---
@@ -20,6 +19,8 @@ a software engineering student at Lead City University, Ibadan, Nigeria — curr
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
