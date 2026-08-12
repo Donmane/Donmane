@@ -10,7 +10,7 @@ a software engineering student at Lead City University, Ibadan, Nigeria — curr
 
 ## what am i working on?
 - learning React and Supabase building my first real projects
-- working on my personal portfolio — *coming soon*
+  
 
 ---
 
@@ -29,7 +29,8 @@ a software engineering student at Lead City University, Ibadan, Nigeria — curr
 
 ## how to reach me
 - 📧 mdon85329@gmail.com
-- 🌐 portfolio — *updating soon*
+- 🌐 portfolio : https://agoye-daniel-portfolio.vercel.app/
+- LinkedIn : https://www.linkedin.com/in/daniel-edith-agoye-30ba3a411
 
 ---
 
