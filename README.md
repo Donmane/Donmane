@@ -9,8 +9,9 @@ a software engineering student at Lead City University, Ibadan, Nigeria — curr
 ---
 
 ## what am i working on?
-- learning React and Supabase building my first real projects
-  
+- **NoteShare**: a lecture note-sharing app (React, Node/Express). The API has working routes, and MongoDB is next.
+- **ai-sandbox**: practicing the Gemini API with Node/Express
+- paving the way to AI engineering, with Python as the next language I'm learning  
 
 ---
 
@@ -24,6 +25,9 @@ a software engineering student at Lead City University, Ibadan, Nigeria — curr
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
